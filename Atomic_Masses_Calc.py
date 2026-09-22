@@ -1,4 +1,5 @@
-#09/19/2026 - 
+#09/19/2026 - Calculating the total atomic mass from the periodic table CSV file
+
 
 ans = 0 #intialization of the variable to store the sum of atomic masses
 
