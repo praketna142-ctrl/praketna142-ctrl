@@ -19,7 +19,7 @@ I am a Computer Science undergraduate student minoring in Chemistry, with a spec
 
 --- 
 ### 💻 What I'm Up To
-- Exploring Chemistry (./chemistry-project)
+- [Exploring Chemistry](./chemistry-project)
 - 🎓 Studying CS Fundamentals & Object-Oriented Logic
 - 🐍 Actively mastering Python in my Intro to CS 2 coursework at UNCC
 - 🔬 Exploring chemistry 
