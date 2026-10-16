@@ -20,6 +20,7 @@ I am a Computer Science undergraduate student minoring in Chemistry, with a spec
 --- 
 ### 💻 What I'm Up To
 - [Exploring Chemistry](./chemistry-project)
+- Coding for fun | https://github.com/praketna142-ctrl/coding-practice-fun | 
 - 🎓 Studying CS Fundamentals & Object-Oriented Logic
 - 🐍 Actively mastering Python in my Intro to CS 2 coursework at UNCC
 - 🔬 Exploring chemistry 
